@@ -1,0 +1,18 @@
+* {margin: 0;
+   padding: 0;
+  box-sizing: border-box;}
+
+  main{
+    width: 75; margin: 50px auto;
+    border: 1px solid green;
+    display: grid;
+  }
+  
+.div1{ background-color: #ff4757; }
+.div2{ background-color: #2ed573; }
+.div3{ background-color: #1e90ff; }
+.div4{ background-color: #5352ed; }
+.div5{ background-color: #2f3542; }
+.div6{ background-color: #ffa502; }
+.div7{ background-color: #00d2d3; }
+.div8{ background-color: #1e90ff; }
